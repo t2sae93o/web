@@ -1,0 +1,37 @@
+[2018-02-27 16:57:22 +0300] [5476] [INFO] Starting gunicorn 19.7.1
+[2018-02-27 16:57:22 +0300] [5476] [INFO] Listening at: http://0.0.0.0:8000 (5476)
+[2018-02-27 16:57:22 +0300] [5476] [INFO] Using worker: sync
+[2018-02-27 16:57:22 +0300] [5479] [INFO] Booting worker with pid: 5479
+[2018-02-27 16:57:35 +0300] [5476] [INFO] Handling signal: int
+[2018-02-27 13:57:35 +0000] [5479] [INFO] Worker exiting (pid: 5479)
+[2018-02-27 16:57:35 +0300] [5476] [INFO] Shutting down: Master
+[2018-02-27 16:57:39 +0300] [5499] [INFO] Starting gunicorn 19.7.1
+[2018-02-27 16:57:39 +0300] [5499] [INFO] Listening at: http://0.0.0.0:8000 (5499)
+[2018-02-27 16:57:39 +0300] [5499] [INFO] Using worker: sync
+[2018-02-27 16:57:39 +0300] [5502] [INFO] Booting worker with pid: 5502
+[2018-02-27 16:57:45 +0300] [5499] [INFO] Handling signal: int
+[2018-02-27 13:57:45 +0000] [5502] [INFO] Worker exiting (pid: 5502)
+[2018-02-27 16:57:45 +0300] [5499] [INFO] Shutting down: Master
+[2018-02-27 17:01:25 +0300] [5696] [INFO] Starting gunicorn 19.7.1
+[2018-02-27 17:01:25 +0300] [5696] [INFO] Listening at: http://0.0.0.0:8000 (5696)
+[2018-02-27 17:01:25 +0300] [5696] [INFO] Using worker: sync
+[2018-02-27 17:01:25 +0300] [5699] [INFO] Booting worker with pid: 5699
+[2018-02-27 17:03:13 +0300] [5696] [INFO] Handling signal: int
+[2018-02-27 14:03:14 +0000] [5699] [INFO] Worker exiting (pid: 5699)
+[2018-02-27 17:03:14 +0300] [5696] [INFO] Shutting down: Master
+[2018-02-27 17:05:29 +0300] [5941] [INFO] Starting gunicorn 19.7.1
+[2018-02-27 17:05:29 +0300] [5941] [INFO] Listening at: http://0.0.0.0:8000 (5941)
+[2018-02-27 17:05:29 +0300] [5941] [INFO] Using worker: sync
+[2018-02-27 17:05:29 +0300] [5944] [INFO] Booting worker with pid: 5944
+[2018-02-27 17:07:30 +0300] [5941] [INFO] Handling signal: winch
+[2018-02-27 17:12:56 +0300] [5941] [INFO] Handling signal: winch
+[2018-02-27 17:13:00 +0300] [5941] [INFO] Handling signal: int
+[2018-02-27 14:13:00 +0000] [5944] [INFO] Worker exiting (pid: 5944)
+[2018-02-27 17:13:00 +0300] [5941] [INFO] Shutting down: Master
+[2018-02-27 17:13:37 +0300] [6828] [INFO] Starting gunicorn 19.7.1
+[2018-02-27 17:13:37 +0300] [6828] [INFO] Listening at: http://0.0.0.0:8000 (6828)
+[2018-02-27 17:13:37 +0300] [6828] [INFO] Using worker: sync
+[2018-02-27 17:13:37 +0300] [6831] [INFO] Booting worker with pid: 6831
+[2018-02-27 17:13:56 +0300] [6828] [INFO] Handling signal: int
+[2018-02-27 14:13:56 +0000] [6831] [INFO] Worker exiting (pid: 6831)
+[2018-02-27 17:13:56 +0300] [6828] [INFO] Shutting down: Master
