@@ -13,6 +13,7 @@ class QuestionManager(models.Manager):
 
 
 class Question(models.Model):
+   objects = QuestionManager() 
    title = models.CharField(max_length=255)
    text = models.TextField()
    added_at = models.DateTimeField(auto_now=True)
@@ -22,7 +23,6 @@ class Question(models.Model):
 
 
 class Answer(models.Model):
-   objects = QuestionManager() 
    text = models.TextField()
    added_at = models.DateTimeField(auto_now=True)
    question = models.ForeignKey(Question, on_delete=models.DO_NOTHING(None, None, None, None))
